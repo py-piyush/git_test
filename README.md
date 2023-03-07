@@ -5,3 +5,5 @@ This is Piyush's first git project!
 
 [//]: # (Top languages)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=py-piyush&theme=dracula&langs_count=6)](https://github.com/py-piyush/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=py-piyush)](https://github.com/py-piyush/github-profile-trophy)
